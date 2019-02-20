@@ -1,5 +1,5 @@
 # gameProject
 
-一个用原生es6写的扫雷游戏demo
-(因为没用babel，后续就用了很多es5！)
+一个用原生js写的扫雷游戏demo
+
 代码示例：https://addfun.github.io/saoLei/
