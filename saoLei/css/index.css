@@ -3,13 +3,14 @@
   padding: 0;
 }
 .gamer{
-  text-align: center;
+  position: relative;
   width: 800px;
   margin: 0 auto;
-  position: relative;
   height: 630px;
+  text-align: center;
   perspective: 800px;
   overflow: hidden;
+  font-family: '微软雅黑';
 }
 .gamer .lei-num{
   position: relative;
